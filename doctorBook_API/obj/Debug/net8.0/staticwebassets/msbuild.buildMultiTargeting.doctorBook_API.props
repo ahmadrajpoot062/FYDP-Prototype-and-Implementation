@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\doctorBook_API.props" />
+</Project>
